@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879925398530",
+    "project_id": "fir-goggle-sign-app",
+    "storage_bucket": "fir-goggle-sign-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879925398530:android:f9a77199104ebc6afdeb1b",
+        "android_client_info": {
+          "package_name": "com.app.firebase_goggle_signin_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879925398530-iqdos191hckntc548n7jm2btcldeg721.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjHyY9NDjA-ZlshRUYaosowtOxqQUvMcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879925398530-iqdos191hckntc548n7jm2btcldeg721.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
